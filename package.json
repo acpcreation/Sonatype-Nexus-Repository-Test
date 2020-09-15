@@ -1,0 +1,25 @@
+{
+	"name": "sample_project1",
+	"version": "0.0.1",
+	"description": "Test Project 1 for Nexus",
+	"dependencies": {
+		"@popperjs/core": "^2.4.2",
+		"axios": "^0.19.2",
+		"body-parser": "^1.19.0",
+		"bootstrap": "^4.5.2",
+		"bootstrap-vue": "^2.16.0",
+		"commonjs": "0.0.1",
+		"core-js": "^3.6.5",
+		"express": "^4.17.1",
+		"follow-redirects": "^1.13.0",
+		"generate-password": "^1.5.1",
+		"history": "^5.0.0",
+		"mssql": "^6.2.1",
+		"portal-vue": "^2.1.7",
+		"vue": "^2.6.11",
+		"vue-router": "^3.3.4",
+		"vue2-google-maps": "^0.10.7",
+		"vuetify": "^2.3.10",
+		"vuex": "^3.5.1"
+	}
+}
